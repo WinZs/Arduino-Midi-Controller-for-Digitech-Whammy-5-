@@ -29,10 +29,4 @@ if (digitalRead(Bouton3) == HIGH )   midiOut.sendProgramChange(0, 1);
 
 if (digitalRead(Bouton4) == HIGH )   midiOut.sendProgramChange(1, 1);
 
-//if (digitalRead(Bouton4) == HIGH )   {
-//  if (i > 20) i = 0;
-//    midiOut.sendProgramChange(i, 1);
-//    i++;
-//    delay(300);
-//   }
 }
