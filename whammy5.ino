@@ -19,7 +19,6 @@ void setup() {
   pinMode (Bouton4, INPUT);
 }
 
-
 void loop() {
 if (digitalRead(Bouton1) == HIGH )   midiOut.sendProgramChange(11, 1);
 
