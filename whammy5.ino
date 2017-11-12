@@ -13,6 +13,7 @@ MIDI_CREATE_INSTANCE(HardwareSerial,Serial, midiOut); // create a MIDI object ca
 
 void setup() {
   Serial.begin(31250); // setup serial for MIDI
+  //INPUT_PULLUP could be used so invert (HIGH to LOW) if condition in loop() 
   pinMode (Bouton1, INPUT);
   pinMode (Bouton2, INPUT);
   pinMode (Bouton3, INPUT);
