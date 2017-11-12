@@ -1,4 +1,4 @@
-# Arduino Midi Controller for Digitech-Whammy 5
+# Arduino Midi Controller for Digitech Whammy 5
 
 Midi Controller with 4 footswitchs 
 
