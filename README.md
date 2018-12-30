@@ -1,6 +1,6 @@
 # Arduino Midi Controller for Digitech Whammy 5
 
-[[https://raw.githubusercontent.com/WinZs/Arduino-Midi-Controller-for-Digitech-Whammy-5-/master/1512825561824.jpg]]
+[https://raw.githubusercontent.com/WinZs/Arduino-Midi-Controller-for-Digitech-Whammy-5-/master/1512825561824.jpg]
 
 Midi Controller with 4 footswitch for instant pedal mode change
 
