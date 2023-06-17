@@ -6,7 +6,7 @@ Midi Controller with 4 footswitch for instant pedal mode change
 
 1st switch :<br /> 
 **SHALLOW**<br /> 
-Program Change 20 on midi channel 1 : midiOut.sendProgramChange(11, 1)<br /><br />
+Program Change 11 on midi channel 1 : midiOut.sendProgramChange(11, 1)<br /><br />
 
 2nd switch :<br />
 **HARMONY OCT UP/DOWN** <br />
